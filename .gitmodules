@@ -1,0 +1,3 @@
+[submodule "demo/web"]
+	path = demo/web
+	url = https://github.com/TamaraRanisovic/Veb-projekat-3.git
